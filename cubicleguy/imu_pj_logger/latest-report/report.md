@@ -1,5 +1,5 @@
 % Statistics for cubicleguy/imu_pj_logger
-% Generated for [cubicleguy/imu_pj_logger](https://github.com/cubicleguy/imu_pj_logger) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-08-19 23:01 UTC.
+% Generated for [cubicleguy/imu_pj_logger](https://github.com/cubicleguy/imu_pj_logger) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-08-20 23:07 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `Google`, 02: `chatgpt.com`, 03: `github.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/commit/dd83539260ea3e03345ba87969dbc024dbdbd6c5`, 03: `/blob/main/main.c`, 04: `/tree/main/.github/workflows`, 05: `/blob/main/readme.txt`, 06: `/issues`, 07: `/pulls`, 08: `/tree/dd83539260ea3e03345ba87969dbc024dbdbd6c5`, 09: `/blob/main/.github/workflows/github-repo-stats.yml`, 10: `/blob/main/LICENSE`, 11: `/blob/dd83539260ea3e03345ba87969dbc024dbdbd6c5/main.c`, 12: `/commits/main`, 13: `/tags`, 14: `/blob/dd83539260ea3e03345ba87969dbc024dbdbd6c5/readme.txt`, 15: `/compare/3894d4855c...ff0d6e59a7`
+Top 15 paths: 01: `/`, 02: `/commit/dd83539260ea3e03345ba87969dbc024dbdbd6c5`, 03: `/blob/main/main.c`, 04: `/tree/main/.github/workflows`, 05: `/blob/main/readme.txt`, 06: `/issues`, 07: `/pulls`, 08: `/tree/dd83539260ea3e03345ba87969dbc024dbdbd6c5`, 09: `/blob/main/.github/workflows/github-repo-stats.yml`, 10: `/blob/dd83539260ea3e03345ba87969dbc024dbdbd6c5/main.c`, 11: `/blob/main/LICENSE`, 12: `/commits/main`, 13: `/tags`, 14: `/blob/dd83539260ea3e03345ba87969dbc024dbdbd6c5/readme.txt`, 15: `/compare/3894d4855c...ff0d6e59a7`
 
 
 <script type="text/javascript">
